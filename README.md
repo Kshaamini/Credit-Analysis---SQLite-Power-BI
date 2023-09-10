@@ -1,5 +1,5 @@
 # Credit Analysis - SQLite & Power BI
-Capstone project under NUS Analytics Program
+
 | Summary | 
 | ----------- | 
 | The is a project I did as part of the NUS Advanced Computing for Executives, School of Computing's Analytics: From Data to Insights programme I had undertaken. The scenario is to assist a credit analyst who wants to gather, organise and analyse data on credit card transactions and customers in order to identify fraudulent information.|
