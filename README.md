@@ -49,7 +49,7 @@ ON
 
 ## Power BI Dashboard
 
-<img width="595" alt="image" src="https://github.com/Kshaamini/DataAnalysis-PowerBI/assets/139740694/5ba6899d-2a4b-4ffa-a627-86043cf9decf">
+<img width="595" alt="image" src="https://github.com/Kshaamini/Credit-Analysis-SQLite-Power-BI/assets/139740694/47e3b407-41ca-482a-bb47-eb1d924f13bf">
 
 | Analysis | 
 | ----------- | 
