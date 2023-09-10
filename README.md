@@ -1,4 +1,4 @@
-# Credit-Analysis---SQLite-Power-BI
+# Credit Analysis - SQLite & Power BI
 Capstone project under NUS Analytics Program
 
 Assisting a credit analyst who wants to gather, organise and analyse data on credit card transactions and customers in order to identify fraudulent information.
