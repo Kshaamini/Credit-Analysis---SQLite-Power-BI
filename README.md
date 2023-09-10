@@ -6,7 +6,8 @@ Capstone project under NUS Analytics Program
 |The dataset is an excel workbook that contains data on credit card transactions and customers in the year 2016|
 
 ## SQLite
-- **The total number of customers with multiple cards**
+**The total number of customers with multiple cards**
+  
 SELECT
   COUNT (DISTINCT Cust_ID) as 'No. of Cust with multiple cards'
 FROM
@@ -16,7 +17,8 @@ Cust_ID
 HAVING
  count(distinct card_number)>1)
 
-- **The average sales for each customer segment**
+**The average sales for each customer segment**
+
 SELECT
  Cu.Customer_Segment as [Customer Segment],
  avg (T.Transaction_Value) as [Average Sales]
@@ -33,7 +35,8 @@ ON
 GROUP BY
  Customer_Segment;
 
-- **Find the total number of fraudulent transactions with their respective amount**
+**Find the total number of fraudulent transactions with their respective amount**
+
 SELECT
  T.Credit_Card_ID as [No.of fraudulent transactions],
  T.Transaction_Value as [Transaction Amount]
