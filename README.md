@@ -50,8 +50,3 @@ ON
 ## Power BI Dashboard
 
 <img width="595" alt="image" src="https://github.com/Kshaamini/Credit-Analysis-SQLite-Power-BI/assets/139740694/47e3b407-41ca-482a-bb47-eb1d924f13bf">
-
-| Analysis | 
-| ----------- | 
-| |
-||
